@@ -1,0 +1,20 @@
+{
+  "source": {
+    "sourcename": "Ariane Lozachmeur",
+    "identified": true
+  },
+
+  "panels": [
+    "Resume"
+  ],
+
+  "Resume": {
+    "name": "Resume",
+    "location": "resume"
+  },
+
+  "Home": {
+    "name": "Home",
+    "location": ""
+  }
+}
